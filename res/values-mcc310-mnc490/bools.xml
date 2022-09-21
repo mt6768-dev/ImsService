@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="conf_imsdereg">true</bool>
+    <bool name="conf_mediatag">false</bool>
+    <bool name="conf_not_support_cfnl">true</bool>
+    <bool name="conf_save_whole_node">true</bool>
+    <bool name="conf_use_xcap_apn">false</bool>
+    <bool name="conf_xcap_http">false</bool>
+</resources>

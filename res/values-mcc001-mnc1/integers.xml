@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="conf_data_cool_down_timer">18000</integer>
+    <integer name="conf_data_keep_alive_timer">120000</integer>
+    <integer name="conf_request_data_timer">18000</integer>
+</resources>

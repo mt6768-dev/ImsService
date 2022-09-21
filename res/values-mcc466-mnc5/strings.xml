@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="conf_ruleid_cfb">call-diversion-busy</string>
+    <string name="conf_ruleid_cfnl">call-diversion-not-logged-in</string>
+    <string name="conf_ruleid_cfnrc">call-diversion-not-reachable</string>
+    <string name="conf_ruleid_cfnry">call-diversion-no-reply</string>
+    <string name="conf_ruleid_cfu">call-diversion-unconditional</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="conf_fill_complete_forward_to">true</bool>
+    <bool name="conf_mediatag">false</bool>
+    <bool name="conf_putwholeclir">true</bool>
+    <bool name="conf_xcap_nsprefixss">true</bool>
+</resources>

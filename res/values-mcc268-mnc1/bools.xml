@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="conf_append_countrycode">true</bool>
+    <bool name="conf_httperr_to_unknownhost">true</bool>
+    <bool name="conf_mediatag">false</bool>
+    <bool name="conf_noreplytimer_inside_cf">true</bool>
+</resources>
