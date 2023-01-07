@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="conf_auid">MYSERVICE/simservs.ngn.etsi.org</string>
+    <string name="conf_digest_pwd">4v4nT3l2018</string>
+</resources>

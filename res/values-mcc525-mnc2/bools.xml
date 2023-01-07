@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="conf_attr_need_quaotation_mark">true</bool>
+</resources>

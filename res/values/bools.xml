@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="conf_append_countrycode">false</bool>
+    <bool name="conf_attr_need_quaotation_mark">false</bool>
+    <bool name="conf_disable_etag">false</bool>
+    <bool name="conf_fill_complete_forward_to">false</bool>
+    <bool name="conf_fwd_num_use_sip_uri">false</bool>
+    <bool name="conf_handle409">false</bool>
+    <bool name="conf_httperr_to_unknownhost">false</bool>
+    <bool name="conf_imsdereg">false</bool>
+    <bool name="conf_mediatag">true</bool>
+    <bool name="conf_noreplytimer_inside_cf">false</bool>
+    <bool name="conf_not_support_cfnl">false</bool>
+    <bool name="conf_not_support_xcap">false</bool>
+    <bool name="conf_putwholeclir">false</bool>
+    <bool name="conf_querywholesimserv">false</bool>
+    <bool name="conf_save_whole_node">false</bool>
+    <bool name="conf_set_cfnrc_with_cfnl">false</bool>
+    <bool name="conf_support_plus_to_url">false</bool>
+    <bool name="conf_support_put_cf_root">true</bool>
+    <bool name="conf_support_put_non_uri_number">true</bool>
+    <bool name="conf_support_time_slot">false</bool>
+    <bool name="conf_use_internet_apn">false</bool>
+    <bool name="conf_use_xcap_apn">true</bool>
+    <bool name="conf_xcap_http">true</bool>
+    <bool name="conf_xcap_nsprefixss">false</bool>
+    <bool name="support_url_encoding">true</bool>
+</resources>

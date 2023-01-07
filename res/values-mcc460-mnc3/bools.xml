@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="conf_fill_complete_forward_to">true</bool>
+    <bool name="conf_not_support_cfnl">true</bool>
+    <bool name="conf_support_put_cf_root">false</bool>
+</resources>

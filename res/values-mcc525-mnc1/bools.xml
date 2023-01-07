@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="conf_attr_need_quaotation_mark">true</bool>
+    <bool name="conf_mediatag">false</bool>
+    <bool name="conf_noreplytimer_inside_cf">true</bool>
+</resources>

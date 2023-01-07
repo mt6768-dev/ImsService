@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="conf_mediatag">false</bool>
+    <bool name="conf_use_internet_apn">true</bool>
+    <bool name="conf_use_xcap_apn">false</bool>
+</resources>

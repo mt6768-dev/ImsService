@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="conf_mediatag_type">1</integer>
+    <integer name="conf_xcap_port">80</integer>
+</resources>

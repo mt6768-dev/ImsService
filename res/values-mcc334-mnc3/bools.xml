@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="conf_support_plus_to_url">true</bool>
+    <bool name="conf_support_put_non_uri_number">false</bool>
+    <bool name="conf_use_internet_apn">true</bool>
+    <bool name="conf_use_xcap_apn">false</bool>
+</resources>

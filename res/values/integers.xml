@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="conf_data_cool_down_timer">8000</integer>
+    <integer name="conf_data_keep_alive_timer">10000</integer>
+    <integer name="conf_mediatag_type">0</integer>
+    <integer name="conf_request_data_timer">30000</integer>
+    <integer name="conf_xcap_port">0</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="conf_ruleid_cfb">cfb</string>
+    <string name="conf_ruleid_cfnl">cfnl</string>
+    <string name="conf_ruleid_cfnrc">cfnrc</string>
+    <string name="conf_ruleid_cfnry">cfnry</string>
+    <string name="conf_ruleid_cfu">cfu</string>
+</resources>
