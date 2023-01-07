@@ -3632,10 +3632,7 @@
 .method private updateWifiEnabled()V
     .locals 4
 
-    .line 1125
-    invoke-static {}, Landroid/os/storage/StorageManager;->inCryptKeeperBounce()Z
-
-    move-result v0
+    const/4 v0, 0x0
 
     const/4 v1, 0x0
 
