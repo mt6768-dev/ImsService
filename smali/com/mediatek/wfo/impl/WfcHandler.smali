@@ -2232,14 +2232,6 @@
 
     move-result-object v11
 
-    .line 576
-    .local v11, "mgr":Lcom/android/ims/ImsManager;
-    move-object v12, v11
-
-    check-cast v12, Lcom/mediatek/ims/internal/MtkImsManager;
-
-    invoke-virtual {v12, v7}, Lcom/mediatek/ims/internal/MtkImsManager;->setWfcRegErrorCode(I)V
-
     .line 579
     new-instance v12, Landroid/content/Intent;
 
