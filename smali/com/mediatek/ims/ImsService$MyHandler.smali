@@ -1689,7 +1689,7 @@
     :goto_a
     iget v4, v1, Lcom/mediatek/ims/ImsService$MyHandler;->mSocketId:I
 
-    invoke-static {v4}, Landroid/telephony/SubscriptionManager;->getSimStateForSlotIndex(I)I
+    invoke-static {v4}, Landroid/telephony/TelephonyManager;->getSimStateForSlotIndex(I)I
 
     move-result v4
 
