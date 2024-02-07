@@ -6,12 +6,11 @@ env:
 on:
   push:
     branches: 
-      - lineage-20
-      - lineage-19.1
+      - lineage-21
 
 jobs:
   build:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
 
